@@ -1,13 +1,14 @@
-.elemento-1, .elemento-2 {
+.Elemento1, .Elemento2 {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif
 }
 
-.elemento-1 {
+.Elemento1 {
     background-color: black;
     color: white;
 }
 
-.elemento-2 {
+.Elemento2 {
     background-color: yellow;
+    color: black;
 }
